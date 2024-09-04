@@ -34,7 +34,7 @@ INSERT INTO clientes (id_cliente, nome, email) VALUES
 (7, 'Gabriela Lima', 'gabriela.lima@example.com'),
 (8, 'Hugo Almeida', 'hugo.almeida@example.com'),
 (9, 'Isabella Castro', 'isabella.castro@example.com'),
-(10, 'Jo„o Lima', 'joao.lima@example.com'),
+(10, 'Jo√£o Lima', 'joao.lima@example.com'),
 (11, 'Karla Martins', 'karla.martins@example.com'),
 (12, 'Lucas Silva', 'lucas.silva@example.com'),
 (13, 'Maria Ferreira', 'maria.ferreira@example.com'),
@@ -46,7 +46,7 @@ INSERT INTO clientes (id_cliente, nome, email) VALUES
 (19, 'Sandra Martins', 'sandra.martins@example.com'),
 (20, 'Tiago Cardoso', 'tiago.cardoso@example.com'),
 (21, 'Ursula Lima', 'ursula.lima@example.com'),
-(22, 'VinÌcius Gomes', 'vinicius.gomes@example.com'),
+(22, 'Vin√≠cius Gomes', 'vinicius.gomes@example.com'),
 (23, 'Wanda Castro', 'wanda.castro@example.com'),
 (24, 'Xuxa Oliveira', 'xuxa.oliveira@example.com'),
 (25, 'Yago Silva', 'yago.silva@example.com'),
@@ -54,7 +54,7 @@ INSERT INTO clientes (id_cliente, nome, email) VALUES
 (27, 'Alan Ribeiro', 'alan.ribeiro@example.com'),
 (28, 'Beatriz Martins', 'beatriz.martins@example.com'),
 (29, 'Carlos Souza', 'carlos.souza@example.com'),
-(30, 'DÈbora Almeida', 'debora.almeida@example.com'),
+(30, 'D√©bora Almeida', 'debora.almeida@example.com'),
 (31, 'Eduardo Silva', 'eduardo.silva@example.com'),
 (32, 'Fernanda Santos', 'fernanda.santos@example.com'),
 (33, 'Gustavo Costa', 'gustavo.costa@example.com'),
@@ -65,33 +65,33 @@ INSERT INTO clientes (id_cliente, nome, email) VALUES
 (38, 'Leandro Pereira', 'leandro.pereira@example.com'),
 (39, 'Marta Ferreira', 'marta.ferreira@example.com'),
 (40, 'Nathalia Rodrigues', 'nathalia.rodrigues@example.com'),
-(41, 'Ot·vio Pinto', 'otavio.pinto@example.com'),
-(42, 'PatrÌcia Lima', 'patricia.lima@example.com'),
+(41, 'Ot√°vio Pinto', 'otavio.pinto@example.com'),
+(42, 'Patr√≠cia Lima', 'patricia.lima@example.com'),
 (43, 'Quintino Almeida', 'quintino.almeida@example.com'),
 (44, 'Roberta Castro', 'roberta.castro@example.com'),
-(45, 'SÈrgio Martins', 'sergio.martins@example.com'),
+(45, 'S√©rgio Martins', 'sergio.martins@example.com'),
 (46, 'Tatiane Silva', 'tatiane.silva@example.com'),
-(47, 'UÈlio Fernandes', 'uelio.fernandes@example.com'),
-(48, 'ValÈria Souza', 'valeria.souza@example.com'),
+(47, 'U√©lio Fernandes', 'uelio.fernandes@example.com'),
+(48, 'Val√©ria Souza', 'valeria.souza@example.com'),
 (49, 'Wesley Gomes', 'wesley.gomes@example.com'),
 (50, 'Xuxa Lima', 'xuxa.lima@example.com'),
 (51, 'Yara Costa', 'yara.costa@example.com'),
-(52, 'ZÈ Neto', 'ze.neto@example.com'),
+(52, 'Z√© Neto', 'ze.neto@example.com'),
 (53, 'Aline Souza', 'aline.souza@example.com'),
 (54, 'Beto Almeida', 'beto.almeida@example.com'),
-(55, 'Cl·udia Ferreira', 'claudia.ferreira@example.com'),
+(55, 'Cl√°udia Ferreira', 'claudia.ferreira@example.com'),
 (56, 'Douglas Lima', 'douglas.lima@example.com'),
 (57, 'Elaine Rodrigues', 'elaine.rodrigues@example.com'),
-(58, 'Fl·vio Santos', 'flavio.santos@example.com'),
+(58, 'Fl√°vio Santos', 'flavio.santos@example.com'),
 (59, 'Giovana Castro', 'giovana.castro@example.com'),
-(60, 'HÈlio Oliveira', 'helio.oliveira@example.com'),
+(60, 'H√©lio Oliveira', 'helio.oliveira@example.com'),
 (61, 'Iris Silva', 'iris.silva@example.com'),
-(62, 'J˙lio Fernandes', 'julio.fernandes@example.com'),
+(62, 'J√∫lio Fernandes', 'julio.fernandes@example.com'),
 (63, 'Kelly Pinto', 'kelly.pinto@example.com'),
 (64, 'Leila Almeida', 'leila.almeida@example.com'),
 (65, 'Marcelo Costa', 'marcelo.costa@example.com'),
-(66, 'N˙bia Lima', 'nubia.lima@example.com'),
-(67, 'Ot·vio Souza', 'otavio.souza@example.com'),
+(66, 'N√∫bia Lima', 'nubia.lima@example.com'),
+(67, 'Ot√°vio Souza', 'otavio.souza@example.com'),
 (68, 'Priscila Martins', 'priscila.martins@example.com'),
 (69, 'Rafael Lima', 'rafael.lima@example.com'),
 (70, 'Simone Rodrigues', 'simone.rodrigues@example.com'),
@@ -102,10 +102,10 @@ INSERT INTO clientes (id_cliente, nome, email) VALUES
 (75, 'Xuxa Ferreira', 'xuxa.ferreira@example.com'),
 (76, 'Yasmim Souza', 'yasmim.souza@example.com'),
 (77, 'Zenaide Costa', 'zenaide.costa@example.com'),
-(78, 'AndrÈ Ferreira', 'andre.ferreira@example.com'),
+(78, 'Andr√© Ferreira', 'andre.ferreira@example.com'),
 (79, 'Beatriz Lima', 'beatriz.lima@example.com'),
 (80, 'Carlos Almeida', 'carlos.almeida@example.com'),
-(81, 'DÈbora Lima', 'debora.lima@example.com'),
+(81, 'D√©bora Lima', 'debora.lima@example.com'),
 (82, 'Eduardo Costa', 'eduardo.costa@example.com'),
 (83, 'Fernanda Almeida', 'fernanda.almeida@example.com'),
 (84, 'Gabriel Souza', 'gabriel.souza@example.com'),
@@ -116,14 +116,14 @@ INSERT INTO clientes (id_cliente, nome, email) VALUES
 (89, 'Leandro Santos', 'leandro.santos@example.com'),
 (90, 'Marta Souza', 'marta.souza@example.com'),
 (91, 'Nathalia Costa', 'nathalia.costa@example.com'),
-(92, 'Ot·vio Ferreira', 'otavio.ferreira@example.com'),
-(93, 'PatrÌcia Almeida', 'patricia.almeida@example.com'),
+(92, 'Ot√°vio Ferreira', 'otavio.ferreira@example.com'),
+(93, 'Patr√≠cia Almeida', 'patricia.almeida@example.com'),
 (94, 'Quintino Rodrigues', 'quintino.rodrigues@example.com'),
 (95, 'Roberta Silva', 'roberta.silva@example.com'),
-(96, 'SÈrgio Lima', 'sergio.lima@example.com'),
+(96, 'S√©rgio Lima', 'sergio.lima@example.com'),
 (97, 'Tatiane Ferreira', 'tatiane.ferreira@example.com'),
-(98, 'UÈlio Souza', 'uelio.souza@example.com'),
-(99, 'ValÈria Costa', 'valeria.costa@example.com'),
+(98, 'U√©lio Souza', 'uelio.souza@example.com'),
+(99, 'Val√©ria Costa', 'valeria.costa@example.com'),
 (100, 'Wesley Almeida', 'wesley.almeida@example.com');
 
 
@@ -341,4 +341,232 @@ SELECT clientes.nome, pedidos.id_pedido, pedidos.data_pedido, produtos.nome_prod
 
 SELECT clientes.id_cliente, clientes.nome, SUM(produtos.preco) AS valor_gasto FROM pedidos INNER JOIN produtos ON pedidos.id_pedido = produtos.id_pedido INNER JOIN clientes ON clientes.id_cliente = pedidos.id_cliente GROUP BY clientes.id_cliente, clientes.nome;
 
+--ATIVIDADE ADICIONANDO NOVAS STORED PROCEDURE
 
+--1 Uma stored procedure que busque a soma de valores gastos por cliente;
+   CREATE PROCEDURE SomaValores 
+   AS
+   BEGIN
+       SELECT c.nome AS NomeCliente, 
+              SUM(p.preco) AS total_gasto
+       FROM clientes c
+       JOIN pedidos pd ON c.id_cliente = pd.id_cliente
+       JOIN produtos p ON pd.id_pedido = p.id_pedido
+       GROUP BY c.nome
+       ORDER BY total_gasto DESC;
+   END;
+   GO
+
+   EXEC SomaValores;
+
+
+--2. Uma stored procedure que busque a m√©dia de valores gastos por cliente por m√™s;
+
+   CREATE PROCEDURE MediaGasto
+   AS
+   BEGIN
+       SELECT 
+           nome AS NomeCliente,
+           AVG(mensal_gasto) AS MediaMensal
+       FROM (
+           SELECT c.id_cliente,
+                  c.nome,
+                  SUM(p.preco) AS mensal_gasto,
+                  MONTH(pd.data_pedido) AS mes,
+                  YEAR(pd.data_pedido) AS ano
+           FROM clientes c
+           JOIN pedidos pd ON c.id_cliente = pd.id_cliente
+           JOIN produtos p ON pd.id_pedido = p.id_pedido
+           GROUP BY c.id_cliente, c.nome, MONTH(pd.data_pedido), YEAR(pd.data_pedido)
+       ) AS mensal
+       GROUP BY id_cliente, nome
+       ORDER BY MediaMensal DESC;
+   END;
+   GO
+
+
+   EXEC MediaGasto;
+
+ -- 3. Uma stored procedure que fa√ßa inser√ß√£o de um novo pedido;
+ 
+   CREATE PROCEDURE NovoPedido
+       @cliente_id INT,
+       @data_pedido DATE,
+       @nome_produto VARCHAR(100),
+       @preco DECIMAL (10,2)
+   AS
+   BEGIN
+       DECLARE @Novo_pedido INT;
+
+       INSERT INTO pedidos (id_cliente, data_pedido)
+       VALUES (@cliente_id, @data_pedido);
+
+       SET @Novo_pedido = SCOPE_IDENTITY();
+
+       INSERT INTO produtos (id_pedido, nome_produto, preco)
+       VALUES (@Novo_pedido, @nome_produto, @preco);
+   END;
+   GO
+
+
+   EXEC NovoPedido
+       @cliente_id = 101,
+       @data_pedido = '2024-11-22',
+       @nome_produto = 'MOCHILA',
+       @preco = 120.00;
+
+
+--4. Uma stored procedure que verifique o estoque de um produto;
+
+--ADICIONANDO A COLUNA QUANTIDADE NA TABELA PRODUTOS 
+ALTER TABLE produtos
+ADD quantidade INT;
+
+--ADICIONANDO QUANTIDADES
+UPDATE produtos SET quantidade = 100 WHERE id_produto = 1;
+UPDATE produtos SET quantidade = 150 WHERE id_produto = 2;
+UPDATE produtos SET quantidade = 200 WHERE id_produto = 3;
+UPDATE produtos SET quantidade = 250 WHERE id_produto = 4;
+UPDATE produtos SET quantidade = 300 WHERE id_produto = 5;
+UPDATE produtos SET quantidade = 350 WHERE id_produto = 6;
+UPDATE produtos SET quantidade = 120 WHERE id_produto = 7;
+UPDATE produtos SET quantidade = 170 WHERE id_produto = 8;
+UPDATE produtos SET quantidade = 180 WHERE id_produto = 9;
+UPDATE produtos SET quantidade = 190 WHERE id_produto = 10;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 11;
+UPDATE produtos SET quantidade = 160 WHERE id_produto = 12;
+UPDATE produtos SET quantidade = 130 WHERE id_produto = 13;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 14;
+UPDATE produtos SET quantidade = 110 WHERE id_produto = 15;
+UPDATE produtos SET quantidade = 120 WHERE id_produto = 16;
+UPDATE produtos SET quantidade = 200 WHERE id_produto = 17;
+UPDATE produtos SET quantidade = 230 WHERE id_produto = 18;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 19;
+UPDATE produtos SET quantidade = 160 WHERE id_produto = 20;
+UPDATE produtos SET quantidade = 120 WHERE id_produto = 21;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 22;
+UPDATE produtos SET quantidade = 190 WHERE id_produto = 23;
+UPDATE produtos SET quantidade = 160 WHERE id_produto = 24;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 25;
+UPDATE produtos SET quantidade = 160 WHERE id_produto = 26;
+UPDATE produtos SET quantidade = 150 WHERE id_produto = 27;
+UPDATE produtos SET quantidade = 170 WHERE id_produto = 28;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 29;
+UPDATE produtos SET quantidade = 150 WHERE id_produto = 30;
+UPDATE produtos SET quantidade = 130 WHERE id_produto = 31;
+UPDATE produtos SET quantidade = 150 WHERE id_produto = 32;
+UPDATE produtos SET quantidade = 170 WHERE id_produto = 33;
+UPDATE produtos SET quantidade = 180 WHERE id_produto = 34;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 35;
+UPDATE produtos SET quantidade = 150 WHERE id_produto = 36;
+UPDATE produtos SET quantidade = 170 WHERE id_produto = 37;
+UPDATE produtos SET quantidade = 180 WHERE id_produto = 38;
+UPDATE produtos SET quantidade = 160 WHERE id_produto = 39;
+UPDATE produtos SET quantidade = 180 WHERE id_produto = 40;
+UPDATE produtos SET quantidade = 130 WHERE id_produto = 41;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 42;
+UPDATE produtos SET quantidade = 150 WHERE id_produto = 43;
+UPDATE produtos SET quantidade = 160 WHERE id_produto = 44;
+UPDATE produtos SET quantidade = 160 WHERE id_produto = 45;
+UPDATE produtos SET quantidade = 170 WHERE id_produto = 46;
+UPDATE produtos SET quantidade = 170 WHERE id_produto = 47;
+UPDATE produtos SET quantidade = 180 WHERE id_produto = 48;
+UPDATE produtos SET quantidade = 150 WHERE id_produto = 49;
+UPDATE produtos SET quantidade = 160 WHERE id_produto = 50;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 51;
+UPDATE produtos SET quantidade = 150 WHERE id_produto = 52;
+UPDATE produtos SET quantidade = 120 WHERE id_produto = 53;
+UPDATE produtos SET quantidade = 130 WHERE id_produto = 54;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 55;
+UPDATE produtos SET quantidade = 150 WHERE id_produto = 56;
+UPDATE produtos SET quantidade = 120 WHERE id_produto = 57;
+UPDATE produtos SET quantidade = 130 WHERE id_produto = 58;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 59;
+UPDATE produtos SET quantidade = 150 WHERE id_produto = 60;
+UPDATE produtos SET quantidade = 130 WHERE id_produto = 61;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 62;
+UPDATE produtos SET quantidade = 120 WHERE id_produto = 63;
+UPDATE produtos SET quantidade = 130 WHERE id_produto = 64;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 65;
+UPDATE produtos SET quantidade = 150 WHERE id_produto = 66;
+UPDATE produtos SET quantidade = 160 WHERE id_produto = 67;
+UPDATE produtos SET quantidade = 170 WHERE id_produto = 68;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 69;
+UPDATE produtos SET quantidade = 150 WHERE id_produto = 70;
+UPDATE produtos SET quantidade = 120 WHERE id_produto = 71;
+UPDATE produtos SET quantidade = 130 WHERE id_produto = 72;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 73;
+UPDATE produtos SET quantidade = 150 WHERE id_produto = 74;
+UPDATE produtos SET quantidade = 130 WHERE id_produto = 75;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 76;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 77;
+UPDATE produtos SET quantidade = 150 WHERE id_produto = 78;
+UPDATE produtos SET quantidade = 130 WHERE id_produto = 79;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 80;
+UPDATE produtos SET quantidade = 110 WHERE id_produto = 81;
+UPDATE produtos SET quantidade = 120 WHERE id_produto = 82;
+UPDATE produtos SET quantidade = 130 WHERE id_produto = 83;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 84;
+UPDATE produtos SET quantidade = 150 WHERE id_produto = 85;
+UPDATE produtos SET quantidade = 160 WHERE id_produto = 86;
+UPDATE produtos SET quantidade = 170 WHERE id_produto = 87;
+UPDATE produtos SET quantidade = 180 WHERE id_produto = 88;
+UPDATE produtos SET quantidade = 160 WHERE id_produto = 89;
+UPDATE produtos SET quantidade = 170 WHERE id_produto = 90;
+UPDATE produtos SET quantidade = 120 WHERE id_produto = 91;
+UPDATE produtos SET quantidade = 130 WHERE id_produto = 92;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 93;
+UPDATE produtos SET quantidade = 150 WHERE id_produto = 94;
+UPDATE produtos SET quantidade = 130 WHERE id_produto = 95;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 96;
+UPDATE produtos SET quantidade = 120 WHERE id_produto = 97;
+UPDATE produtos SET quantidade = 130 WHERE id_produto = 98;
+UPDATE produtos SET quantidade = 130 WHERE id_produto = 99;
+UPDATE produtos SET quantidade = 140 WHERE id_produto = 100;
+
+
+GO
+
+   CREATE PROCEDURE VerificarEstoque 
+       @produto_id INT  
+   AS
+   BEGIN 
+       SELECT nome_produto, quantidade
+       FROM produtos
+       WHERE id_produto = @produto_id;
+   END;
+   GO
+
+   EXEC VerificarEstoque @produto_id = 1;
+
+
+-- 5. Uma stored procedure que sinalize que um produto est√° com baixo estoque sempre que um
+--pedido for feito e o restante do estoque for menor que 3
+   CREATE PROCEDURE VerificarNivelEstoque
+       @produto_id INT,
+       @quantidade_pedido INT
+   AS
+   BEGIN
+       DECLARE @Estoque_Atual INT;
+
+       -- Verifica o estoque atual do produto
+       SELECT @Estoque_Atual = quantidade
+       FROM produtos
+       WHERE id_produto = @produto_id;
+
+       -- Atualiza o estoque
+       UPDATE produtos
+       SET quantidade = @Estoque_Atual - @quantidade_pedido
+       WHERE id_produto = @produto_id;
+
+       -- Verifica se o estoque est√° abaixo de 3 
+       IF @Estoque_Atual - @quantidade_pedido < 3
+       BEGIN
+           RAISERROR('Produto com estoque abaixo de 3 unidades!', 16, 1);
+       END;
+   END;
+   GO
+
+   EXEC VerificarNivelEstoque
+       @produto_id = 1,
+       @quantidade_pedido = 2;
